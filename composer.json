@@ -1,0 +1,7 @@
+{
+  "name": "zan-config/zan",
+  "config": {
+    "preferred-install": "dist",
+    "secure-http": false
+  }
+}
